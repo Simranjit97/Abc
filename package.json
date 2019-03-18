@@ -1,1 +1,19 @@
-package
+{
+  "name": "survey-site",
+  "version": "1.0.0",
+  "description": "Final Term project for survey site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simranjit97/Abc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simranjit97/Abc/issues"
+  },
+  "homepage": "https://github.com/Simranjit97/Abc#readme"
+}
